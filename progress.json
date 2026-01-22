@@ -16,6 +16,33 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "remote-control",
+    "started_at": 1769084464.087013,
+    "completed_at": 1769084497.582023,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769084564.749568,
+    "completed_at": 1769084582.410941,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1769084602.27645,
+    "completed_at": 1769084659.415274,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1769061926.152351,
     "completed_at": 1769061927.819654,
@@ -61,29 +88,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1769084464.087013,
-    "completed_at": 1769084497.582023,
+    "exercise_name": "link-me",
+    "started_at": 1769085470.835904,
+    "completed_at": 1769085472.413867,
     "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1769084564.749568,
-    "completed_at": 1769084582.410941,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1769084602.27645,
-    "completed_at": 1769084659.415274,
-    "comments": [
-      "Great work setting up a public remote repository!"
+      "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
   }
